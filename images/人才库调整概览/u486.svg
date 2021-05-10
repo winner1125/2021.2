@@ -5,8 +5,8 @@
       <path d="M 0 50  L 0 0  L 107.505376344086 0  L 113.956989247312 0  L 150 0  L 150 50  L 0 50  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -614 -993 )">
-    <path d="M 0 50  L 0 0  L 107.505376344086 0  L 113.956989247312 0  L 150 0  L 150 50  L 0 50  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 614 993 )" />
-    <path d="M 0 50  L 0 0  L 107.505376344086 0  L 113.956989247312 0  L 150 0  L 150 50  L 0 50  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 614 993 )" mask="url(#clip11)" />
+  <g transform="matrix(1 0 0 1 -1307 -905 )">
+    <path d="M 0 50  L 0 0  L 107.505376344086 0  L 113.956989247312 0  L 150 0  L 150 50  L 0 50  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 1307 905 )" />
+    <path d="M 0 50  L 0 0  L 107.505376344086 0  L 113.956989247312 0  L 150 0  L 150 50  L 0 50  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 1307 905 )" mask="url(#clip11)" />
   </g>
 </svg>
