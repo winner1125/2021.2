@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="972 910  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 972.5 910.5  L 983.5 910.5  L 983.5 921.5  L 972.5 921.5  L 972.5 910.5  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
-  <path d="M 972.5 910.5  L 983.5 910.5  L 983.5 921.5  L 972.5 921.5  L 972.5 910.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-  <path d="M 974.571428571429 916  L 977.142857142857 918.571428571429  " stroke-width="2.57142857142857" stroke="#797979" fill="none" />
-  <path d="M 977.142857142857 918.571428571429  L 981.428571428571 912.571428571429  " stroke-width="2.57142857142857" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="489 1006  12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 495 1006  C 498.36 1006  501 1008.64  501 1012  C 501 1015.36  498.36 1018  495 1018  C 491.64 1018  489 1015.36  489 1012  C 489 1008.64  491.64 1006  495 1006  Z " fill-rule="nonzero" fill="#f0f0f0" stroke="none" />
+  <path d="M 495 1006.5  C 498.08 1006.5  500.5 1008.92  500.5 1012  C 500.5 1015.08  498.08 1017.5  495 1017.5  C 491.92 1017.5  489.5 1015.08  489.5 1012  C 489.5 1008.92  491.92 1006.5  495 1006.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+  <path d="M 495 1015  C 493.32 1015  492 1013.68  492 1012  C 492 1010.32  493.32 1009  495 1009  C 496.68 1009  498 1010.32  498 1012  C 498 1013.68  496.68 1015  495 1015  " fill-rule="nonzero" fill="#797979" stroke="none" />
 </svg>
